@@ -1,0 +1,21 @@
+<?php
+return [
+    'student_list' => 'Danh Sách Học Viên',
+    'logout' => 'Đăng Xuất',
+    'add' => 'Thêm Học Viên',
+    'edit_del_student'=>'Sửa/Xóa Học Viên',
+    'edit'=>'Sửa',
+    'del'=>'xóa',
+    'student_id'=>'MSHV',
+    'name'=>'Họ Và Tên',
+    'phone'=>'Số Điện Thoại',
+    'faculty_management'=>'Quản Lý Giảng Viên',
+    'student_management'=>'Quản Lý Học Viên',
+    'user_management'=>'Quản Lý User',
+    'role_management'=>'Quản Lý Quyền',
+    'addstudent'=>'Thêm Học Viên',
+    'student_id_input'=>'Nhập Mã Số Học Viên',
+    'name_input'=>'Nhập Tên Học Viên',
+    'phone_input'=>'Nhập SDT',
+    'editstudent'=>'Sửa Học Viên',
+];
